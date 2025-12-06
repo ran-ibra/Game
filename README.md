@@ -1,4 +1,4 @@
-# Game Agents Backend – Phase 1 (Trial)
+# Game Agents Backend 
 
 This repository contains the **Phase 1 trial implementation** of the multi-agent backend layer for the RTS game.
 
