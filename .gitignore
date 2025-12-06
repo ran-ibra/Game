@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+arthia_world.db
+.env
+.idea/
+.vscode/
